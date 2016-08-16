@@ -114,7 +114,7 @@
     },
     "grunt-contrib-uglify": {
       "version": "1.0.2",
-      "from": "grunt-contrib-uglify@>=1.0.1 <2.0.0",
+      "from": "grunt-contrib-uglify@>=1.0.0 <1.1.0",
       "resolved": "https://registry.npmjs.org/grunt-contrib-uglify/-/grunt-contrib-uglify-1.0.2.tgz"
     },
     "gzip-size": {
